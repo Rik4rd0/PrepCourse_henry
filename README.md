@@ -1,2 +1,1 @@
-# PrepCourse_henry
-Este es un repositorio de prueba del curso de henry
+Este repositorio de prueba contiene un archivo README.md
